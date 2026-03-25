@@ -1,0 +1,8 @@
+# GateKeeper Privacy Policy
+
+GateKeeper does not collect any personal data.
+
+The extension sends download URLs and file SHA-256 hashes 
+to a secure proxy server for malware scanning via VirusTotal.
+
+No user data is stored, sold, or shared with third parties.
